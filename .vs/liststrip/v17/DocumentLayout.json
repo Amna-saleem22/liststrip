@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\secod semester\\liststrip\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{039FC06E-AE09-4993-9E8F-B17115623947}|liststrip\\liststrip.csproj|E:\\secod semester\\liststrip\\liststrip\\properties\\hello.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{039FC06E-AE09-4993-9E8F-B17115623947}|liststrip\\liststrip.csproj|solutionrelative:liststrip\\properties\\hello.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{039FC06E-AE09-4993-9E8F-B17115623947}|liststrip\\liststrip.csproj|e:\\secod semester\\liststrip\\liststrip\\properties\\hello.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{039FC06E-AE09-4993-9E8F-B17115623947}|liststrip\\liststrip.csproj|solutionrelative:liststrip\\properties\\hello.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{039FC06E-AE09-4993-9E8F-B17115623947}|liststrip\\liststrip.csproj|E:\\secod semester\\liststrip\\liststrip\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{039FC06E-AE09-4993-9E8F-B17115623947}|liststrip\\liststrip.csproj|solutionrelative:liststrip\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Hello.cs",
+              "DocumentMoniker": "E:\\secod semester\\liststrip\\liststrip\\Properties\\Hello.cs",
+              "RelativeDocumentMoniker": "liststrip\\Properties\\Hello.cs",
+              "ToolTip": "E:\\secod semester\\liststrip\\liststrip\\Properties\\Hello.cs",
+              "RelativeToolTip": "liststrip\\Properties\\Hello.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T05:07:21.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Hello.cs [Design]",
+              "DocumentMoniker": "E:\\secod semester\\liststrip\\liststrip\\Properties\\Hello.cs",
+              "RelativeDocumentMoniker": "liststrip\\Properties\\Hello.cs",
+              "ToolTip": "E:\\secod semester\\liststrip\\liststrip\\Properties\\Hello.cs [Design]",
+              "RelativeToolTip": "liststrip\\Properties\\Hello.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T04:56:50.394Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\secod semester\\liststrip\\liststrip\\Form1.cs",
+              "RelativeDocumentMoniker": "liststrip\\Form1.cs",
+              "ToolTip": "E:\\secod semester\\liststrip\\liststrip\\Form1.cs [Design]",
+              "RelativeToolTip": "liststrip\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T04:43:08.951Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

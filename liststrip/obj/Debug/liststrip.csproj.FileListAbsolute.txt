@@ -1,0 +1,11 @@
+E:\secod semester\liststrip\liststrip\bin\Debug\liststrip.exe.config
+E:\secod semester\liststrip\liststrip\bin\Debug\liststrip.exe
+E:\secod semester\liststrip\liststrip\bin\Debug\liststrip.pdb
+E:\secod semester\liststrip\liststrip\obj\Debug\liststrip.csproj.AssemblyReference.cache
+E:\secod semester\liststrip\liststrip\obj\Debug\liststrip.Form1.resources
+E:\secod semester\liststrip\liststrip\obj\Debug\liststrip.Properties.Hello.resources
+E:\secod semester\liststrip\liststrip\obj\Debug\liststrip.Properties.Resources.resources
+E:\secod semester\liststrip\liststrip\obj\Debug\liststrip.csproj.GenerateResource.cache
+E:\secod semester\liststrip\liststrip\obj\Debug\liststrip.csproj.CoreCompileInputs.cache
+E:\secod semester\liststrip\liststrip\obj\Debug\liststrip.exe
+E:\secod semester\liststrip\liststrip\obj\Debug\liststrip.pdb
